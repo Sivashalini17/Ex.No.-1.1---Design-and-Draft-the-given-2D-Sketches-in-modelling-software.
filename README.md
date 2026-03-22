@@ -1,5 +1,8 @@
 # Ex.No.-1.1-Design and Draft the given 2D Sketches in modelling software.
 
+NAME : SIVA SHALINI.S 
+REG.NO: 212224240154
+
 ## AIM
 
 To sketch the given drawing with dimensions using fusion 360 tool.
@@ -43,6 +46,7 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 
 ## OUTPUT
 
+<img width="1378" height="975" alt="image" src="https://github.com/user-attachments/assets/bbc93848-6496-4f93-8519-1be86f86c922" />
 
 ## RESULT
 Thus the given sketch is drawn and drafted using fusion 360 tool.
